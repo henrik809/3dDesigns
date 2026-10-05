@@ -8,7 +8,7 @@ $fn = 64;
 // ---- Parameters ----------------------------------------------------------
 
 base_length   = 140;   // X extent of the base (mm)
-base_width    = 65;    // Y extent of the base (mm) - front-to-back depth
+base_width    = 90;    // Y extent of the base (mm) - front-to-back depth
 base_thickness = 8;    // base plate thickness (mm)
 base_corner_r = 10;    // base plate corner rounding radius (mm)
 

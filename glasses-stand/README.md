@@ -10,7 +10,7 @@ front of and behind the arch.
 
 ## Dimensions
 
-- Base: 140 x 65 x 8 mm, rounded corners
+- Base: 140 x 90 x 8 mm, rounded corners
 - Arch: ~90 mm span, ~59 mm tall overall (base + arch), 12 mm diameter bar
 - Fits most standard eyeglass/sunglass frames
 
