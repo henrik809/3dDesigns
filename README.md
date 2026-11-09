@@ -40,7 +40,7 @@ Then edit `projects/my-new-design/README.md` with the description and print sett
 
 | Project | Description | Status |
 |---|---|---|
-| _None yet_ | | |
+| [Pixel 10 Pro Folding Stand](projects/pixel-10-pro-folding-stand) | Print-in-place phone stand that folds flat | Untested |
 
 ## License
 
